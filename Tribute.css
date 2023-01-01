@@ -1,0 +1,53 @@
+ #tribute-info {
+            
+    font-size:24px ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    padding-right: 180px;
+    
+    padding-left: 180px;
+}
+#div-img{
+    text-align:center;
+    
+}
+#background {
+    
+    background-image: url("https://i.pinimg.com/originals/76/20/04/7620040c5ef46295f990d5706e99b364.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+#title{
+    font-size: 50px;
+    text-align: center;
+    font-family:Edwardian Script ITC;
+    
+
+}
+#img-caption{
+    text-align: center;
+    font-size: 45px;
+    font-family: Edwardian Script ITC;
+    position:relative;
+    color: rgba(121, 8, 8, 0.918);
+    margin-top: 10;
+    
+}
+#footer{
+    font-size: 19px;
+    text-align: center;
+}
+/*#image{
+    max-width: 55%;
+  height: 30%;
+}*/
+    
+img{
+    max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;}
